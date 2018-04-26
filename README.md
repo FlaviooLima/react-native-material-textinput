@@ -29,6 +29,14 @@ export default class Example extends Component {
 
 ## Properties
 
+### Container
+
+Name                  | Type               | Default
+:-------------------- |:------------------ |:----------
+containerStyle        | Object             | { flex:1 }
+
+
+
 ### Label
 
 name                  | type               | default
