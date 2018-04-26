@@ -47,6 +47,15 @@ Name                  | Type               | Default
 placeholder           | String             |
 placeholderColor      | String             | `gray`
 
+### Right Icon
+
+Name                  | Type               | Default
+:-------------------- |:------------------ |:----------
+rightIcon             | Component          | null
+
+
+
+
 ### Input
 
 Name                  | Type               | Default
