@@ -1,0 +1,161 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-material-textinput",
+        "scope": null,
+        "escapedName": "react-native-material-textinput",
+        "name": "react-native-material-textinput",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/macmini/reactNative/spark"
+    ],
+    [
+      {
+        "raw": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+        "spec": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:FlaviooLima/react-native-material-textinput.git",
+          "sshUrl": "git+ssh://git@github.com/FlaviooLima/react-native-material-textinput.git",
+          "httpsUrl": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+          "gitUrl": "git://github.com/FlaviooLima/react-native-material-textinput.git",
+          "shortcut": "github:FlaviooLima/react-native-material-textinput",
+          "directUrl": "https://raw.githubusercontent.com/FlaviooLima/react-native-material-textinput/master/package.json"
+        }
+      },
+      "/Users/macmini/reactNative/spark"
+    ],
+    [
+      {
+        "raw": "react-native-material-textinput@git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+        "scope": null,
+        "escapedName": "react-native-material-textinput",
+        "name": "react-native-material-textinput",
+        "rawSpec": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+        "spec": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:FlaviooLima/react-native-material-textinput.git",
+          "sshUrl": "git+ssh://git@github.com/FlaviooLima/react-native-material-textinput.git",
+          "httpsUrl": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+          "gitUrl": "git://github.com/FlaviooLima/react-native-material-textinput.git",
+          "shortcut": "github:FlaviooLima/react-native-material-textinput",
+          "directUrl": "https://raw.githubusercontent.com/FlaviooLima/react-native-material-textinput/master/package.json"
+        }
+      },
+      "/Users/macmini/reactNative/spark"
+    ],
+    [
+      {
+        "raw": "git+https://github.com/FlaviooLima/react-native-material-textinput",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+https://github.com/FlaviooLima/react-native-material-textinput",
+        "spec": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:FlaviooLima/react-native-material-textinput.git",
+          "sshUrl": "git+ssh://git@github.com/FlaviooLima/react-native-material-textinput.git",
+          "httpsUrl": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+          "gitUrl": "git://github.com/FlaviooLima/react-native-material-textinput.git",
+          "shortcut": "github:FlaviooLima/react-native-material-textinput",
+          "directUrl": "https://raw.githubusercontent.com/FlaviooLima/react-native-material-textinput/master/package.json"
+        }
+      },
+      "/Users/macmini/reactNative/spark"
+    ]
+  ],
+  "_from": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+  "_id": "react-native-material-textinput@1.1.0",
+  "_inBundle": false,
+  "_inCache": true,
+  "_location": "/react-native-material-textinput",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-material-textinput-1.1.0.tgz_1506452437438_0.942034077597782"
+  },
+  "_npmUser": {
+    "name": "maximpostnikov",
+    "email": "itsmaximpostnikov@gmail.com"
+  },
+  "_npmVersion": "5.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-material-textinput@git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+    "name": "react-native-material-textinput",
+    "escapedName": "react-native-material-textinput",
+    "rawSpec": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+    "saveSpec": "git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+    "fetchSpec": "https://github.com/FlaviooLima/react-native-material-textinput.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/FlaviooLima/react-native-material-textinput.git#059abde87b2867190be16f0ea59dc4d845e3f26a",
+  "_shasum": "fee5dd2aa67e7e1d7882a335a90abe0bb2f23bda",
+  "_shrinkwrap": null,
+  "_spec": "react-native-material-textinput@git+https://github.com/FlaviooLima/react-native-material-textinput.git",
+  "_where": "/Users/macmini/reactNative/spark",
+  "author": {
+    "name": "Maxim Postnikov",
+    "email": "itsmaximpostnikov@gmail.com",
+    "url": "https://github.com/maximpostnikov"
+  },
+  "bugs": {
+    "url": "https://github.com/perushevandkhmelev-agency/react-native-material-textinput/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "deprecated": false,
+  "description": "Textual input component for React Native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-z+8WkI1JAW/qqiaktAtNdyPs40di2eYDwL3rheZ6t6qQWEFv2jgIYbr0U8evlYVG3BSsVMZ48XejFNju8/DFwQ==",
+    "shasum": "98bd0916cd0693a6c138b0d8ac24265d84a987f2",
+    "tarball": "https://registry.npmjs.org/react-native-material-textinput/-/react-native-material-textinput-1.1.0.tgz"
+  },
+  "gitHead": "99c606c94d5e1677ae112e4189f0e31da4188da7",
+  "homepage": "https://github.com/perushevandkhmelev-agency/react-native-material-textinput",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "textfield",
+    "textinput",
+    "material-design"
+  ],
+  "license": "MIT",
+  "main": "lib/Input.js",
+  "maintainers": [
+    {
+      "name": "maximpostnikov",
+      "email": "itsmaximpostnikov@gmail.com"
+    }
+  ],
+  "name": "react-native-material-textinput",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/perushevandkhmelev-agency/react-native-material-textinput.git"
+  },
+  "version": "1.1.0"
+}
