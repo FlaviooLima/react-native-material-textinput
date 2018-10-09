@@ -110,14 +110,6 @@ errorFontSize         | Number             | `12`
 
 Other [TextInput](https://facebook.github.io/react-native/docs/textinput.html#props) properties will also work
 
-## Example
-
-```bash
-git clone https://github.com/perushevandkhmelev-agency/react-native-material-textinput
-cd react-native-material-textinput/example
-yarn # or npm install
-yarn start # or npm start
-```
 
 ## License
 
